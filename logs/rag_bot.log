@@ -1,0 +1,1 @@
+{"timestamp": "2026-02-11T16:10:24.466847", "level": "INFO", "logger": "rag_bot", "message": "Chat memory initialized with max_history=20", "module": "logger", "function": "log_info", "line": 91}
